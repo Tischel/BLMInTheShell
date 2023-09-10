@@ -5,7 +5,7 @@ A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyeh
 **This plugin is only meant to be used only as a practice tool!**
 **For this reason, this plugin will only work when attacking a Striking Dummy outside of a duty.**
 
-![example](https://github.com/Tischel/BLMInTheShell/blob/main/example.gif)
+![example](https://github.com/Tischel/BLMInTheShell/blob/master/example.gif)
 
 ## FAQ
 

@@ -17,6 +17,6 @@
         "DownloadLinkInstall": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
         "DownloadLinkTesting": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
         "DownloadLinkUpdate": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Tischel/BLMInTheShell/main/icon.png"
+        "IconUrl": "https://raw.githubusercontent.com/Tischel/BLMInTheShell/master/icon.png"
     }
 ]
