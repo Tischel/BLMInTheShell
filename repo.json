@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Tischel",
+        "Name": "BLM in the Shell",
+        "Description": "Practice tool for pre-planned rotations with BLM in the Shell (https://miyehn.me/ffxiv-blm-rotation/).",
+        "InternalName": "BLMInTheShell",
+        "AssemblyVersion": "0.1.0.0",
+        "TestingAssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/Tischel/BLMInTheShell",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
+        "DownloadLinkTesting": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
+        "DownloadLinkUpdate": "https://github.com/Tischel/BLMInTheShell/releases/download/0.1.0.0/BLMInTheShell.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Tischel/BLMInTheShell/main/icon.png"
+    }
+]
