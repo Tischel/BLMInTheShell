@@ -9,6 +9,9 @@ A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyeh
 
 ## FAQ
 
+**Q: How do I install it?**
+A: Once you have Dalamud setup you need to add `https://raw.githubusercontent.com/Tischel/BLMInTheShell/master/repo.json` to the list of Custom Plugin Repositories in the Experimental settings. Once this step is complete, the plugin should be visible in the plugin list and ready to be installed through it.
+
 **Q: Does this plugin execute actions for me?**<br>
 A: No!
 
@@ -20,6 +23,8 @@ A: Absolutely! However you will most likely need a tool that generates the files
 
 **Q: Can you share the code?**<br>
 A: Probably not!
+
+**
 
 ## Rotation Timeline
 
