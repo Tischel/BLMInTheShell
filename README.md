@@ -1,8 +1,8 @@
 # BLM in the Shell Plugin
 
-A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/) in-game and in real time.
+A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/) rotation in-game and in real time.
 
-**This plugin is only meant to be used only as a practice tool!**
+**This plugin is only meant to be used only as a practice tool!**<br>
 **For this reason, this plugin will only work when attacking a Striking Dummy outside of a duty.**
 
 ![example](https://github.com/Tischel/BLMInTheShell/blob/master/example.gif)
