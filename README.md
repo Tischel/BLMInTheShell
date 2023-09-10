@@ -24,8 +24,6 @@ A: Absolutely! However you will most likely need a tool that generates the files
 **Q: Can you share the code?**<br>
 A: Probably not!
 
-**
-
 ## Rotation Timeline
 
 This plugin was designed to be used with timelines generated in [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/).<br>
