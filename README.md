@@ -7,6 +7,10 @@ A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyeh
 
 ![example](https://github.com/Tischel/BLMInTheShell/blob/master/example.gif)
 
+## Changelog
+
+[Changelog](https://github.com/Tischel/BLMInTheShell/blob/master/changelog.md)
+
 ## FAQ
 
 **Q: How do I install it?**<br>
