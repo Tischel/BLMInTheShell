@@ -1,3 +1,6 @@
+# 0.2.1.0
+- Added support for patch 6.51.
+
 # 0.2.0.0
 - Added support for patch 6.5 and Dalamud API 9.
 
