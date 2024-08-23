@@ -1,3 +1,6 @@
+# 0.3.0.0
+- Added support for Dawntrail.
+
 # 0.2.1.0
 - Added support for patch 6.51.
 
