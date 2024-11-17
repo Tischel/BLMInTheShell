@@ -1,6 +1,6 @@
 # BLM in the Shell Plugin
 
-A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/) rotation in-game and in real time.
+A Final Fantasy XIV Dalamud Plugin that shows a [BLM in the Shell](https://xivintheshell.com/) rotation in-game and in real time.
 
 **This plugin is only meant to be used only as a practice tool!**<br>
 **For this reason, this plugin will only work when attacking a Striking Dummy outside of a duty.**
@@ -30,7 +30,7 @@ A: Probably not!
 
 ## Rotation Timeline
 
-This plugin was designed to be used with timelines generated in [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/).<br>
+This plugin was designed to be used with timelines generated in [BLM in the Shell](https://xivintheshell.com/).<br>
 Simply create a rotation and export it in CSV format and then load it through the plugin in the Files tab.
 
 ### Format
@@ -79,7 +79,7 @@ time,action,isGCD,castTime
 
 ## Markers
 
-This plugin is also capable of displaying the timeline markers that can be created in [BLM in the Shell](https://miyehn.me/ffxiv-blm-rotation/).<br>
+This plugin is also capable of displaying the timeline markers that can be created in [BLM in the Shell](https://xivintheshell.com/).<br>
 To export the markers use the `Save marker tracks to file: [all tracks combined]` option in the website.
 The generated file can then be loaded through the plugin in the Files tab.
 
